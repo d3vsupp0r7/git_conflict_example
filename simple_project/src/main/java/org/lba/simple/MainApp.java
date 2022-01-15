@@ -11,23 +11,5 @@ public class MainApp {
 		System.out.println("Out: " + obj.toString());
 	}
 
-	private String message;
-
-	public SimpleObject() {
-		// TODO Auto-generated constructor stub
-	}
-
-	public String getMessage() {
-		return message;
-	}
-
-	public void setMessage(String message) {
-		this.message = message;
-	}
-
-	@Override
-	public String toString() {
-		return "SimpleObject [message=" + message + "]";
-	}
 }
 
