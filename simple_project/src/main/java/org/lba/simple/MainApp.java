@@ -6,7 +6,7 @@ public class MainApp {
 
 		// TODO Auto-generated method stub
 		SimpleObject obj = new SimpleObject();
-		obj.setMessage("Hello Conflict example - commit from featureBranch");
+		obj.setMessage("Hello Conflict example - commit from featureBranch - mod2");
 		/**/
 		System.out.println("Out: " + obj.toString());
 	}
