@@ -24,7 +24,7 @@ public class SimpleObject implements Serializable {
 
 	@Override
 	public String toString() {
-		return "SimpleObject [message=" + message + "]";
+		return "SimpleObject [message= FOR CONFLICT" + message + "]";
 	}
 	
 	
