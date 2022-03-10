@@ -11,7 +11,7 @@ public class CommonClassD {
 		/**/
 		values.add("commanValue1_ClassD");
 		values.add("commanValue2_ClassD");
-		values.add("commanValue3_ClassD");
+		values.add("commanValue3_ClassD_Modified_ForConflict_fb2");
 		values.add("commanValue4_ClassD");
 		values.add("commanValue5_ClassD");
 		values.add("commanValue6_ClassD");
